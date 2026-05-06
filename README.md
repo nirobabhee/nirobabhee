@@ -102,7 +102,7 @@ const nirob = {
 - FedEx API
 - FGO Invoice API
 - Pathao Courier
-- BKash Courier
+- BKash Gateway API
 
 **💳 Payment Systems**
 - Multi-gateway Integration
