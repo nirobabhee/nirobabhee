@@ -94,7 +94,6 @@ const nirob: Developer = {
 | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | Component-based SPA development |
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | SSR / SSG full-stack apps |
 | ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) | DOM manipulation, AJAX |
-| ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | Utility-first responsive UI |
 | ![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | Rapid UI scaffolding |
 
 ### 🗄️ Database & Cache
@@ -104,6 +103,16 @@ const nirob: Developer = {
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Primary relational database |
 | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | Caching, queues, session store |
 | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | Lightweight local / testing DB |
+
+
+
+### 🔧 DevOps & Tooling
+
+| Technology | Role |
+|---|---|
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Version control & branching |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Containerized dev & deployment |
+| ![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white) | PHP dependency management |
 
 </td>
 <td valign="top" width="50%">
@@ -142,15 +151,6 @@ const nirob: Developer = {
 | Telnyx SMS API | Transactional messaging |
 | Email (SMTP / Queue) | Queued bulk & transactional mail |
 | Push Notifications | Web & mobile push delivery |
-
-### 🔧 DevOps & Tooling
-
-| Technology | Role |
-|---|---|
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Version control & branching |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Containerized dev & deployment |
-| ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) | Reverse proxy & web server |
-| ![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white) | PHP dependency management |
 
 </td>
 </tr>
@@ -294,8 +294,13 @@ Subscription-based digital product store
 
 <div align="center">
 <img width="49%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=nirobabhee&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" />
-<img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nirobabhee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&border_radius=8&cache_seconds=1800" />
 </div>
+<br/>
+<div align="center">
+<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nirobabhee&theme=tokyo-night&hide_border=true&area=true&radius=6&custom_title=Nirob%27s%20Contribution%20Activity" width="100%"/>
+</div>
+
+
 
 ## 📬 Open to Opportunities
 
