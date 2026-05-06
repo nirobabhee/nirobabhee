@@ -132,16 +132,13 @@ const nirob: Developer = {
 | Integration | Capability |
 |---|---|
 | UPS API | Shipment creation, tracking, rates |
-| FedEx API | Label generation, rate quotes |
 | Pathao Courier | BD last-mile delivery |
-| Steadfast Courier | BD COD logistics |
 | FGO Invoice API | Invoice & billing automation |
 
 ### 📞 Communication & Notifications
 
 | Integration | Capability |
 |---|---|
-| Telnyx Voice API | Programmatic calling & IVR |
 | Telnyx SMS API | Transactional messaging |
 | Email (SMTP / Queue) | Queued bulk & transactional mail |
 | Push Notifications | Web & mobile push delivery |
@@ -153,7 +150,6 @@ const nirob: Developer = {
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Version control & branching |
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Containerized dev & deployment |
 | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) | Reverse proxy & web server |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | Server administration (Ubuntu) |
 | ![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white) | PHP dependency management |
 
 </td>
@@ -165,7 +161,7 @@ const nirob: Developer = {
 ## 💼 Professional Experience
 
 <details open>
-<summary><b>🏢 Software Engineer &nbsp;·&nbsp; The Softking Ltd &nbsp;&nbsp;|&nbsp;&nbsp; Jan 2021 – Present</b></summary>
+<summary><b>🏢 Software Engineer/Developer &nbsp;·&nbsp; The Softking Ltd &nbsp;&nbsp;|&nbsp;&nbsp; Jan 2021 – Present</b></summary>
 
 <br/>
 
@@ -174,9 +170,9 @@ const nirob: Developer = {
 | Responsibility | Impact |
 |---|---|
 | 🚀 Full-cycle Laravel application development | **30+ apps** shipped to production |
-| 🔐 Secure REST API design (Sanctum & JWT) | Serving thousands of end-users |
+| 🔐 Secure REST API design (Sanctum) | Serving thousands of end-users |
 | 💳 Payment gateway & wallet integrations | Live financial transaction systems |
-| ⚡ Real-time features (Socket.io, Pusher, Reverb) | Live bidding, chat & notifications |
+| ⚡ Real-time features (Socket.io, Pusher) | Live bidding, chat & notifications |
 | 📦 Redis caching & queue-based optimization | Significant server load reduction |
 | 🔁 Client customization & feature delivery | **100+ projects** completed on time |
 | 🧩 Reusable service modules & shared libraries | Accelerated cross-team velocity |
@@ -250,7 +246,7 @@ REST API-powered lending system
 </td>
 <td width="50%" valign="top">
 
-**☕ [InspireMe](http://script.viserlab.com/inspireme) — Creator Monetization**
+**☕ [InspireMe](http://script.viserlab.com/inspireme) — Creator Monetization/Like Buy Me a Coffee Platform**
 
 "Buy Me a Coffee" style donation platform
 
@@ -297,45 +293,9 @@ Subscription-based digital product store
 ## 📊 GitHub Statistics
 
 <div align="center">
-
 <img width="49%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=nirobabhee&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" />
 <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nirobabhee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&border_radius=8&cache_seconds=1800" />
-
 </div>
-
-<div align="center">
-
-<img width="44%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirobabhee&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=8&card_width=400&cache_seconds=1800" />
-
-</div>
-
-<div align="center">
-
-<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nirobabhee&theme=tokyo-night&hide_border=true&area=true&radius=6&custom_title=Nirob%27s%20Contribution%20Activity" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirobabhee/nirobabhee/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nirobabhee/nirobabhee/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nirobabhee/nirobabhee/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nirobabhee&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/nirobabhee)
-
-</div>
-
----
 
 ## 📬 Open to Opportunities
 
