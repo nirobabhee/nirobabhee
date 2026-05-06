@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Md.%20Sadek%20Hossain%20Nirob&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Laravel%20%E2%80%A2%20PHP%20%E2%80%A2%20JavaScript&%20%E2%80%A2%20ReactJs&descAlignY=58&descSize=18&descColor=a0aec0&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a4a,70:0e4d7b,100:1a6fa8&height=220&section=header&text=Md.%20Sadek%20Hossain%20Nirob&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Laravel%20%7C%20PHP%20%7C%20JavaScript%20%7C%20React&descAlignY=62&descSize=17&descColor=93c5fd&animation=fadeIn" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=760&lines=Open+to+Full-Time+%26+Remote+Opportunities;4.5%2B+Years+Building+Production+Laravel+Apps;REST+API+%26+Payment+Gateway+Specialist;30%2B+Delivered+Projects+%7C+100%2B+Client+Customizations;SaaS+%7C+Escrow+%7C+Marketplace+%7C+Real-Time+Systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,121 +14,147 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Scalable+SaaS+Platforms+%F0%9F%9A%80;REST+API+%26+Payment+Gateway+Expert+%F0%9F%94%8C;Real-Time+Apps+with+Socket.io+%26+Pusher+%E2%9A%A1;4.5%2B+Years+of+Production+Experience+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-0e4d7b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sh-nirob.vercel.app/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirob-abhee)&nbsp;
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirobabhee@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nirobabhee)
 
 </div>
 
-<br/>
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-0f172a?style=for-the-badge&logoColor=white)](https://sh-nirob.vercel.app/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirob-abhee)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nirobabhee)&nbsp;
-[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirobabhee@gmail.com)&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=nirobabhee&label=Profile+Views&color=38bdf8&style=for-the-badge)](https://github.com/nirobabhee)
+![Profile Views](https://komarev.com/ghpvc/?username=nirobabhee&label=Profile+Views&color=0e4d7b&style=flat-square)&nbsp;
+![Status](https://img.shields.io/badge/Status-Available%20for%20Hire-22c55e?style=flat-square&logo=checkmarx&logoColor=white)&nbsp;
+![Location](https://img.shields.io/badge/Location-Bangladesh-f59e0b?style=flat-square&logo=google-maps&logoColor=white)&nbsp;
+![Experience](https://img.shields.io/badge/Experience-4.5%2B%20Years-3b82f6?style=flat-square&logo=clockify&logoColor=white)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 👨‍💻 Who Am I?
 
-```ts
-const nirob = {
-  name:       "Md. Sadek Hossain (Nirob)",
-  role:       "Full Stack Eng./Web Developer",
-  experience: "4+ years",
-  location:   "Bangladesh 🇧🇩",
-  company:    "The Softking Ltd",
-  focus:      ["SaaS Platforms", "REST APIs", "Payment Systems", "Real-Time Apps"],
-  stack:      ["Laravel", "PHP", "JavaScript", "React", "Next.js", "MySQL", "Redis","Socket.io","WebSocket", "Pusher"],
-  motto:      "Code • Create • Scale • Innovate 🚀",
+```typescript
+const nirob: Developer = {
+  name:        "Md. Sadek Hossain (Nirob)",
+  title:       "Full Stack Engineer",
+  experience:  "4.5+ years in production environments",
+  current:     "Software Engineer @ The Softking Ltd  (2021 – Present)",
+  expertise:   [
+    "Laravel / PHP Backend Architecture",
+    "REST API Design & Integration",
+    "Payment, Wallet & Escrow Systems",
+    "Real-Time Apps (Socket.io / Pusher / Reverb)",
+    "SaaS & Marketplace Platform Development",
+  ],
+  techStack:   ["Laravel", "PHP", "JavaScript", "React", "Next.js",
+                "MySQL", "Redis", "Socket.io", "Pusher", "Docker", "Nginx"],
+  delivered:   "30+ Laravel apps · 100+ client projects · 8 SaaS platforms",
+  seeking:     "Full-Time | Remote | Contract — Backend / Full Stack Engineer",
+  contact:     "nirobabhee@gmail.com  ·  sh-nirob.vercel.app",
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 At A Glance
 
 <div align="center">
 
-**Backend**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Database & Cache**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Real-Time & Messaging**
-
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white)
-![Laravel Reverb](https://img.shields.io/badge/Laravel_Reverb-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Telnyx](https://img.shields.io/badge/Telnyx-00C2A2?style=flat-square&logoColor=white)
-
-**DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=flat-square&logo=githubactions&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
+| 🏆 Apps Delivered | 🔁 Client Projects | ⚙️ SaaS Platforms | ⏱️ Experience | 🌍 Work Mode |
+|:---:|:---:|:---:|:---:|:---:|
+| **30+** | **100+** | **8** | **4.5+ Years** | **Remote/Hybrid/On-site** |
 
 </div>
 
 ---
 
-## 🔌 Integration Expertise
+## 🛠️ Tech Stack & Integration Expertise
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-**🚚 Shipping & Logistics**
-- UPS API
-- FedEx API
-- FGO Invoice API
-- Pathao Courier
-- BKash Gateway API
+### ⚙️ Backend & API Layer
 
-**💳 Payment Systems**
-- Multi-gateway Integration
-- Wallet & Balance Systems
-- Escrow Payment Flows
-- Subscription Billing
+| Technology | Role |
+|---|---|
+| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | Primary framework — SaaS, REST APIs, queues |
+| ![PHP](https://img.shields.io/badge/PHP%208.x-777BB4?style=flat-square&logo=php&logoColor=white) | Core language — OOP, service patterns |
+| ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white) | Legacy MVC apps |
+| ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white) | Resource design, versioning, rate limiting |
+| ![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white) | SPA & mobile token auth |
+| ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) | Stateless API authentication |
+
+### 🎨 Frontend Layer
+
+| Technology | Role |
+|---|---|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Core scripting, async, DOM |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | Component-based SPA development |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | SSR / SSG full-stack apps |
+| ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) | DOM manipulation, AJAX |
+| ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | Utility-first responsive UI |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | Rapid UI scaffolding |
+
+### 🗄️ Database & Cache
+
+| Technology | Role |
+|---|---|
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Primary relational database |
+| ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | Caching, queues, session store |
+| ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | Lightweight local / testing DB |
 
 </td>
-<td width="50%">
+<td valign="top" width="50%">
 
-**📞 Communication APIs**
-- Telnyx Calling API
-- Email Notification Systems
-- Push Notification Services
+### ⚡ Real-Time Systems
 
-**⚡ Real-Time Systems**
-- Socket.io WebSockets
-- Pusher Channels
-- Laravel Reverb
-- Live Dashboards & Feeds
+| Technology | Role |
+|---|---|
+| ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) | Bidirectional WebSocket events |
+| ![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white) | Managed channels & presence |
+| ![Laravel Reverb](https://img.shields.io/badge/Laravel%20Reverb-FF2D20?style=flat-square&logo=laravel&logoColor=white) | Self-hosted WebSocket server |
+| ![WebSocket](https://img.shields.io/badge/WebSocket-0d1117?style=flat-square&logo=websocket&logoColor=white) | Native low-latency connections |
+
+### 💳 Payment & Fintech
+
+| Integration | Capability |
+|---|---|
+| Multi-Gateway | Stripe-style flows, redirects, webhooks |
+| Wallet System | Credit, debit, transfer, balance tracking |
+| Escrow Engine | Hold, release, dispute, refund workflows |
+| BKash API | Bangladesh mobile payment gateway |
+| Subscription Billing | Recurring plans, trial, upgrade/downgrade |
+
+### 🚚 Shipping & Logistics
+
+| Integration | Capability |
+|---|---|
+| UPS API | Shipment creation, tracking, rates |
+| FedEx API | Label generation, rate quotes |
+| Pathao Courier | BD last-mile delivery |
+| Steadfast Courier | BD COD logistics |
+| FGO Invoice API | Invoice & billing automation |
+
+### 📞 Communication & Notifications
+
+| Integration | Capability |
+|---|---|
+| Telnyx Voice API | Programmatic calling & IVR |
+| Telnyx SMS API | Transactional messaging |
+| Email (SMTP / Queue) | Queued bulk & transactional mail |
+| Push Notifications | Web & mobile push delivery |
+
+### 🔧 DevOps & Tooling
+
+| Technology | Role |
+|---|---|
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Version control & branching |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Containerized dev & deployment |
+| ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) | Reverse proxy & web server |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | Server administration (Ubuntu) |
+| ![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white) | PHP dependency management |
 
 </td>
 </tr>
@@ -130,97 +162,131 @@ const nirob = {
 
 ---
 
-## 💼 Work Experience
+## 💼 Professional Experience
 
 <details open>
-<summary><b>🏢 Software Engineer — The Softking Ltd &nbsp;|&nbsp; 2021 – Present</b></summary>
+<summary><b>🏢 Software Engineer &nbsp;·&nbsp; The Softking Ltd &nbsp;&nbsp;|&nbsp;&nbsp; Jan 2021 – Present</b></summary>
+
 <br/>
 
-- 🚀 Delivered **30+ production-grade Laravel applications** from architecture to deployment
-- 🔐 Built secure RESTful APIs using **Laravel Sanctum & JWT** authentication
-- 💳 Integrated **payment gateways, wallet systems**, and escrow workflows
-- ⚡ Engineered **real-time features** using Socket.io, Pusher, and Laravel Reverb
-- 📦 Optimized high-load systems using **Redis caching & queue workers**
-- 🔁 Completed **100+ client customization projects** across diverse domains
-- 🧩 Developed reusable service modules and backend component libraries
+> End-to-end SaaS product development — from system architecture to production deployment and client delivery.
+
+| Responsibility | Impact |
+|---|---|
+| 🚀 Full-cycle Laravel application development | **30+ apps** shipped to production |
+| 🔐 Secure REST API design (Sanctum & JWT) | Serving thousands of end-users |
+| 💳 Payment gateway & wallet integrations | Live financial transaction systems |
+| ⚡ Real-time features (Socket.io, Pusher, Reverb) | Live bidding, chat & notifications |
+| 📦 Redis caching & queue-based optimization | Significant server load reduction |
+| 🔁 Client customization & feature delivery | **100+ projects** completed on time |
+| 🧩 Reusable service modules & shared libraries | Accelerated cross-team velocity |
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>🏢 Software Developer — ICT Layer Ltd &nbsp;|&nbsp; 2019 – 2021</b></summary>
+<summary><b>🏢 Software Developer &nbsp;·&nbsp; ICT Layer Ltd &nbsp;&nbsp;|&nbsp;&nbsp; 2019 – 2021</b></summary>
+
 <br/>
 
-- 🖥️ Built **CodeIgniter-based** web applications with clean architecture
-- 🎨 Improved UI/UX and overall application performance
-- 🔧 Implemented backend integrations and third-party API connections
-- 🚀 Assisted in scalable application deployment and modern dev practices
+- Built **CodeIgniter**-based web applications with clean MVC architecture
+- Improved UI/UX and performance across multiple client-facing products
+- Implemented third-party API integrations and backend business logic
+- Supported deployment, environment configuration, and performance tuning
 
 </details>
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured SaaS Projects
+
+> 8 production-grade platforms built with Laravel — spanning fintech, marketplace, creator economy, and Web3.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 [EscrowLab](http://script.viserlab.com/escrowlab/)
-> Advanced escrow payment management platform
+**🔐 [EscrowLab](http://script.viserlab.com/escrowlab/) — Escrow Platform**
 
-`Wallet System` `Escrow Transactions` `Secure Payments` `Membership Plans`
+Secure multi-party payment management system
 
----
+- ✅ Escrow transaction engine with dispute handling
+- ✅ Multi-currency wallet system
+- ✅ Membership & subscription tiers
+- ✅ Real-time transaction dashboard
 
-### ☕ [InspireMe](http://script.viserlab.com/inspireme)
-> Buy Me a Coffee-style donation platform
+<br/>
 
-`Donation Widgets` `Live Preview Generator` `Creator Dashboard`
+**🌐 [MetaLance](https://script.viserlab.com/metamask) — Web3 Freelance Marketplace**
 
----
+MetaMask-integrated gig platform
 
-### 🌐 [MetaLance](https://script.viserlab.com/metamask)
-> MetaMask-based freelance marketplace
+- ✅ MetaMask wallet authentication
+- ✅ Gig listing & order management
+- ✅ Buyer/seller protected escrow
+- ✅ Blockchain payment integration
 
-`Wallet Login` `Gig Marketplace` `Blockchain Integration`
+<br/>
 
----
+**📈 [TreeVest](http://script.viserlab.com/treevest) — Investment Platform**
 
-### 📲 [SMMLab](http://script.viserlab.com/smmlab)
-> Social media marketing panel
+Tiered investment plan & profit distribution system
 
-`SMM Services` `Order Management` `API Automation`
+- ✅ Automated profit distribution
+- ✅ Referral & bonus system
+- ✅ Real-time analytics dashboard
+
+<br/>
+
+**💰 [RapidLab](https://script.viserlab.com/rapidlab) — Loan Management**
+
+REST API-powered lending system
+
+- ✅ Full loan lifecycle management
+- ✅ Complete REST API coverage
+- ✅ Payment gateway integration
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⭐ [RateLab](https://script.viserlab.com/ratelab/)
-> Business review & rating platform
+**☕ [InspireMe](http://script.viserlab.com/inspireme) — Creator Monetization**
 
-`Review System` `Business Profiles` `Membership Features`
+"Buy Me a Coffee" style donation platform
 
----
+- ✅ Embeddable donation widgets
+- ✅ Live widget preview builder
+- ✅ Creator earnings dashboard
 
-### 💰 [RapidLab](https://script.viserlab.com/rapidlab)
-> Loan management system with REST APIs
+<br/>
 
-`Loan Management` `REST API` `Payment Processing`
+**⭐ [RateLab](https://script.viserlab.com/ratelab/) — Business Reviews**
 
----
+Business reputation & review platform
 
-### 📈 [TreeVest](http://script.viserlab.com/treevest)
-> Investment management platform
+- ✅ Structured review & rating engine
+- ✅ Verified business profiles
+- ✅ Membership-based feature access
 
-`Investment Plans` `Profit Distribution` `Referral System`
+<br/>
 
----
+**📲 [SMMLab](http://script.viserlab.com/smmlab) — SMM Panel**
 
-### 📦 [CodeSole](http://script.viserlab.com/codesole)
-> Subscription-based code marketplace
+Social media marketing automation platform
 
-`Membership Plans` `Digital Downloads` `License System`
+- ✅ Multi-service SMM order engine
+- ✅ API-based service automation
+- ✅ Reseller panel support
+
+<br/>
+
+**📦 [CodeSole](http://script.viserlab.com/codesole) — Code Marketplace**
+
+Subscription-based digital product store
+
+- ✅ Tiered membership & licensing
+- ✅ Secure digital downloads
+- ✅ License key management
 
 </td>
 </tr>
@@ -228,24 +294,73 @@ const nirob = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nirobabhee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&card_width=400" />
-<img width="49%" src="https://streak-stats.demolab.com?user=nirobabhee&theme=tokyonight&hide_border=true&card_width=400" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirobabhee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=nirobabhee&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" />
+<img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nirobabhee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&border_radius=8&cache_seconds=1800" />
 
 </div>
-
-<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirobabhee&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%"/>
+<img width="44%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirobabhee&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=8&card_width=400&cache_seconds=1800" />
 
 </div>
 
+<div align="center">
+
+<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nirobabhee&theme=tokyo-night&hide_border=true&area=true&radius=6&custom_title=Nirob%27s%20Contribution%20Activity" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirobabhee/nirobabhee/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nirobabhee/nirobabhee/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nirobabhee/nirobabhee/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nirobabhee&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/nirobabhee)
+
+</div>
+
+---
+
+## 📬 Open to Opportunities
+
+<div align="center">
+
+### Actively seeking Full-Time, Remote, or Contract roles
+
+*Backend Engineer · Full Stack Developer · Laravel Specialist*
+
+I bring **4.5+ years of production experience** in Laravel SaaS architecture, payment & escrow systems,<br/>
+real-time applications, and clean REST API design. I've shipped **30+ apps** and handled **100+ client projects**<br/>
+— ready to bring that same reliability and craftsmanship to your team.
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-nirobabhee%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirobabhee@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-sh--nirob.vercel.app-0e4d7b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sh-nirob.vercel.app/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Now-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirob-abhee)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6fa8,50:0e4d7b,100:0d1117&height=130&section=footer&text=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Scale%20%E2%80%A2%20Innovate&fontSize=18&fontColor=93c5fd&fontAlignY=65&animation=fadeIn" />
+
+</div>
