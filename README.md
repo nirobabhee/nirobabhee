@@ -293,9 +293,14 @@ Subscription-based digital product store
 ## 📊 GitHub Statistics
 
 <div align="center">
-<img width="49%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=nirobabhee&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" />
+<img width="100%" alt="GitHub Streak" src="https://ghstats1.netlify.app/.netlify/functions/github-stats?user=nirobabhee&theme=github-dark" />
 </div>
-<br/>
+
+
+
+
+
+
 <div align="center">
 <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nirobabhee&theme=tokyo-night&hide_border=true&area=true&radius=6&custom_title=Nirob%27s%20Contribution%20Activity" width="100%"/>
 </div>
